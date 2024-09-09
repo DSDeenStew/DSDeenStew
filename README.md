@@ -1,7 +1,6 @@
 # About me
 
 
-**DSDeenStew/DSDeenStew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently studying to become a Data Scientist at Concordia University through their bootcamp.
